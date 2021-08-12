@@ -1,6 +1,6 @@
 # Vite Bug (2021-08-11)
 
-1. Clone the repo
+1. Clone the repo (<https://github.com/wavebeem/vite-bug-2021-08-11>)
 
 2. `npm install`
 
