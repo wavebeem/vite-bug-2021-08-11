@@ -11,7 +11,7 @@ hello();
 // -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-
 
 function App() {
-  return <div>App</div>;
+  return <div>CHANGE ME</div>;
 }
 
 export default App;

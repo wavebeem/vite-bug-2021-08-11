@@ -8,4 +8,10 @@
 
 4. Open browser to <http://localhost:3000/>
 
-5. Open browser dev tools to see the error
+5. Open browser dev tools
+
+6. Change the text `CHANGE ME` in `src/App.jsx` to `oops`
+
+7. Refresh the browser
+
+8. The JS console now says `Uncaught ReferenceError: can't access lexical declaration 'App' before initialization`
